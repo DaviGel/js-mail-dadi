@@ -4,4 +4,4 @@
 
 # Esercizio Gioco dei dadi
 
-- Genero due numeri casuali tra 1 e 6 con la seguente istruzione che sfrutta 2 funzioni `Math.floor(Math.random() * 6) + 1` e le salvo in 2 variabili: `numeroUtente` e `numeroPC`. Confronto i 2 numeri, il più alto vince.
+- Genero due numeri casuali tra 1 e 6 con la seguente istruzione che sfrutta 2 funzioni `Math.floor(Math.random() * 6) + 1` e le salvo in 2 variabili: `numeroUtente` e `numeroPC`. Confronto i 2 numeri, il più alto vince, altrimenti è patta.
