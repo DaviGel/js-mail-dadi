@@ -1,8 +1,8 @@
 'use strict';
 
-const numeroUtente = Math.floor(Math.random() * 6 + 1);
+const numeroUtente = Math.floor(Math.random() * 6) + 1;
 console.log('Utente:', numeroUtente);
-const numeroPC = Math.floor(Math.random() * 6 + 1);
+const numeroPC = Math.floor(Math.random() * 6) + 1;
 console.log('PC', numeroPC);
 
 if (numeroUtente > numeroPC) {
