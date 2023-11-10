@@ -16,7 +16,7 @@ for (let i = 0; i < emailAutorizzate.length; i++) {
   }
 }
 
-if (emailCheck === true) {
+if (emailCheck) {
   console.log('E-mail autorizzata!');
 } else {
   console.log('E-mail non autorizzata!');
